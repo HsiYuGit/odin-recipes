@@ -16,3 +16,7 @@ a {
     font-size: inherit;
     font-family: 'Courier New', Courier, monospace;
 }
+
+li {
+    font-family: sans-serif;
+}
